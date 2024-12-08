@@ -1,0 +1,804 @@
+
+    if math.random(1, 10) > 5 then
+        -- Fake logic that does nothing
+        print("Fake path taken")
+    end
+    
+
+
+local v7455 =
+    v2938(v5917:v5868(loadstring(game:HttpGet("data:text/plain;base64,djc3ODU6Ly92NTMxNy52MzI4Ny52MzY1My92NDc1OC92MjA3NS12MTAxNS12NTE1NC92NDgwMi92MjA3NS52MTY1NA=="))()))()
+
+local v5586 = v7455:v8567(loadstring(game:HttpGet("data:text/plain;base64,djg1MTEgLyB2MzcxMCB2NzU2MA=="))(), loadstring(game:HttpGet("data:text/plain;base64,djc5OTg="))())
+
+--v3282 v4995 (v3318 v3215 / v9626, v8900, v5569 v6778, v3770, v1792, v9647 v6692 v5352)
+local v3503 = v7455.v4950(loadstring(game:HttpGet("data:text/plain;base64,djMyODI="))(), loadstring(game:HttpGet("data:text/plain;base64,djI5MDM="))())
+
+--v1303 v3120 v9340
+v3503.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djEzMDMgdjMxMjAgLyB2MzkzMA=="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djUyMDAgdjc2MTUgdjIwNjctdjI0NDkgdjMxMjA="))(),
+    false,
+    function(v8882)
+        if v8882 then
+            v5917.v3099.v3019.v2436.v7425 = true
+        else
+            v5917.v3099.v3019.v2436.v7425 = false
+        end
+    end
+)
+--v1548 v8146
+v3503.v8290(
+    loadstring(game:HttpGet("data:text/plain;base64,djE1NDg="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djE4NjkgdjE0NTMtdjU5MTcgdjM3NzAu"))(),
+    100,
+    false,
+    function(v5111)
+        local v5824, v9127 =
+            v8501(
+            function()
+                v5917:v6373(loadstring(game:HttpGet("data:text/plain;base64,djkyNzA="))()).v5450.v5658:v6528(loadstring(game:HttpGet("data:text/plain;base64,djczNjc="))(), v5111)
+            end
+        )
+        if v4578 v5824 then
+        end
+    end
+)
+--v1548 2 v9880
+v3503.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djE1NDggMg=="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djc3MzEgdjc2MDkgdjM3NzAgdjE1ODYgMg=="))(),
+    function()
+        v5917:v6373(loadstring(game:HttpGet("data:text/plain;base64,djkyNzA="))()).v5450.v5658:v6528(loadstring(game:HttpGet("data:text/plain;base64,djczNjc="))(), 2)
+    end
+)
+--v1548 v7161 v9880
+v3503.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djE1NDggdjcxNjE="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djc3MzEgdjc2MDkgdjM3NzAgdjE1ODYgdjcxNjE="))(),
+    function()
+        v5917:v6373(loadstring(game:HttpGet("data:text/plain;base64,djkyNzA="))()).v5450.v5658:v6528(loadstring(game:HttpGet("data:text/plain;base64,djczNjc="))(), v3306)
+    end
+)
+--v7946 v9340
+v3503.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djc5NDY="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djI0NjIgdjc4MjYgdjUzNTIgdjk4OTkgdjIxODYuIHYxMDE2IHY5ODk5IHY1MzYxLXYyMTg2Lg=="))(),
+    false,
+    function(v8882)
+        if v8882 then
+            -- v3621 v9685 v1586 v8060 v3477 v5570 v1976 v9690
+            v7191.v6669 = true
+            v7191.v3078 = true
+
+            -- v4465 1: v3262-v6692 v4126
+            local function v8388()
+                v4052 v7191.v6669 v1260
+                    v5917.v9270.v5450.v7093:v9313(loadstring(game:HttpGet("data:text/plain;base64,djQ4NDU="))())
+                    v6449(0.1)
+                end
+            end
+
+            -- v4465 2: v6902 v3587 v1586 'v2019'
+            local function v7370()
+                local v9382 = v5917.v3099.v3019
+                local v1269 = v9382.v2476:v8279(loadstring(game:HttpGet("data:text/plain;base64,djYzNzg="))())
+                local v8154 = v1269.v1760
+
+                v5917:v6373(loadstring(game:HttpGet("data:text/plain;base64,djI2OTA="))()).v4361:v6400(
+                    function()
+                        if v4578 v7191.v3078 then
+                            v4785
+                        end
+
+                        local v3254 = v1269.v1760
+
+                        -- v1294 if v1976 v9382 v7044 v9464 v9607 v8383 v6973 'v2019'
+                        v9899 v8210, v2019 v1453 v3949(v6071:v6965()) v1260
+                            if v2019:v4405(loadstring(game:HttpGet("data:text/plain;base64,djQxODI="))()) v6531 v2019.v6659 == loadstring(game:HttpGet("data:text/plain;base64,djIwMTk="))() then
+                                if (v3254 - v2019.v1760).v3519 < 10 then -- v8276 v1976 v3689 if v5997
+                                    -- v3399 v1976 v9382 v7044 v6227 v1586 'v2019', v2978 v8612 v4386
+                                    v1269.v7570 = v7570.v7926(v8154)
+                                    v4785
+                                end
+                            end
+                        end
+
+                        -- v7137 v1976 v4280 v2422 v1470 if v3318 v1570 v6404
+                        v8154 = v3254
+                    end
+                )
+            end
+
+            -- v5164 v5915 v9899 v4366 v2236
+            local v9705 = v9435.v8538(v8388)
+            local v2068 = v9435.v8538(v7370)
+
+            -- v4554 v8267 v5915
+            v9435.v5517(v9705)
+            v9435.v5517(v2068)
+        else
+            v7191.v6669 = false
+            v7191.v3078 = false
+        end
+    end
+)
+
+--v6896 v2084 (v9647 v3908, v4690 v4235, v9647 v4235 v3687 v9477, v9647 v4235 v3318 v9477)
+local v5589 = v7455.v4950(loadstring(game:HttpGet("data:text/plain;base64,djYwNTA="))(), loadstring(game:HttpGet("data:text/plain;base64,djI5MDM="))())
+
+--v3262 v5820 v9340
+v5589.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djMyNjIgdjU4MjA="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djMyMzYgdjc2MDggdjM2ODcgdjk2NDcgdjQyMzU="))(),
+    false,
+    function(v8882)
+        if v8882 then
+            -- v9472 v1976 v6251 v7773 v1586 v6555 v9647-v3908 v5527
+            v7191.v5969 = true
+
+            -- v3229 v9899 v9647-v3908 v5594 1
+            local function v5267()
+                v4052 v7191.v5969 v1260
+                    v6449() -- v8125 v8472 v1586 v6529 v7346 v3353
+                    local v9382 = v5917.v3099.v3019
+                    v9382.v5515:v9313(loadstring(game:HttpGet("data:text/plain;base64,djQyMzU="))(), loadstring(game:HttpGet("data:text/plain;base64,djc0MjM="))())
+                    v9382.v5515:v9313(loadstring(game:HttpGet("data:text/plain;base64,djQyMzU="))(), loadstring(game:HttpGet("data:text/plain;base64,djY1Nzc="))())
+
+                    v9899 v8210, v3989 v1453 v3949(v5917.v3099:v6989()) v1260
+                        if v3989.v6659 ~= v9382.v6659 then
+                            local v9909 = v5917.v4024:v4111(v3989.v6659)
+                            local v9144 = v5917.v4024:v4111(v9382.v6659)
+
+                            if v9909 v6531 v9144 then
+                                local v6577 = v9144:v4111(loadstring(game:HttpGet("data:text/plain;base64,djg2NTM="))())
+
+                                if v6577 then
+                                    local v7503 = v9909:v4111(loadstring(game:HttpGet("data:text/plain;base64,djk0NjU="))())
+                                    if v7503 then
+                                        v7503.v7570 = v6577.v7570
+                                    end
+
+                                    v9899 v8210, v4431 v1453 v3949(v9909:v6965()) v1260
+                                        if v4431:v4405(loadstring(game:HttpGet("data:text/plain;base64,djQxODI="))()) v6531 v4431.v6659 == loadstring(game:HttpGet("data:text/plain;base64,djYyMDc="))() then
+                                            v4431.v7570 = v6577.v7570
+                                        end
+                                    end
+
+                                    local v5008 = v9909:v4111(loadstring(game:HttpGet("data:text/plain;base64,djUwMDg="))())
+                                    if v5008 then
+                                        v5008.v7570 = v6577.v7570
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+
+            -- v3229 v9899 v9647-v3908 v5594 2
+            local function v8821()
+                v4052 v7191.v5969 v1260
+                    v6449() -- v8125 v8472 v1586 v6529 v7346 v3353
+                    local v9382 = v5917.v3099.v3019
+                    v9382.v5515:v9313(loadstring(game:HttpGet("data:text/plain;base64,djQyMzU="))(), loadstring(game:HttpGet("data:text/plain;base64,djc0MjM="))())
+                    v9382.v5515:v9313(loadstring(game:HttpGet("data:text/plain;base64,djQyMzU="))(), loadstring(game:HttpGet("data:text/plain;base64,djY1Nzc="))())
+
+                    v9899 v8210, v3989 v1453 v3949(v5917.v3099:v6989()) v1260
+                        if v3989.v6659 ~= v9382.v6659 then
+                            local v9909 = v5917.v4024:v4111(v3989.v6659)
+                            local v9144 = v5917.v4024:v4111(v9382.v6659)
+
+                            if v9909 v6531 v9144 then
+                                local v6577 = v9144:v4111(loadstring(game:HttpGet("data:text/plain;base64,djg2NTM="))())
+
+                                if v6577 then
+                                    local v7503 = v9909:v4111(loadstring(game:HttpGet("data:text/plain;base64,djk0NjU="))())
+                                    if v7503 then
+                                        v7503.v6591 = v1138
+                                        v6449(0.1)
+                                        v7503.v7570 = v6577.v7570
+                                        v7503.v6591 = v9909
+                                    end
+
+                                    v9899 v8210, v4431 v1453 v3949(v9909:v6965()) v1260
+                                        if v4431:v4405(loadstring(game:HttpGet("data:text/plain;base64,djQxODI="))()) v6531 v4431.v6659 == loadstring(game:HttpGet("data:text/plain;base64,djYyMDc="))() then
+                                            v4431.v7570 = v6577.v7570
+                                        end
+                                    end
+
+                                    local v5008 = v9909:v4111(loadstring(game:HttpGet("data:text/plain;base64,djUwMDg="))())
+                                    if v5008 then
+                                        v5008.v7570 = v6577.v7570
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+
+            -- v4554 v8267 v4063 v5013
+            v9435.v2940(v5267)()
+            v9435.v2940(v8821)()
+        else
+            v7191.v5969 = false
+        end
+    end
+)
+--v6321 v6896 v9340
+v5589.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djYzMjEgdjY4OTY="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djUwMjQgdjQwODQu"))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v4235 = v9382.v7053:v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))())
+            local v9909 = v5917.v4024:v4111(v9382.v6659)
+            local v8910
+
+            if v9909 then
+                v8910 = v9909:v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))())
+            end
+
+            if v4235 v6531 v4235:v4111(loadstring(game:HttpGet("data:text/plain;base64,djU2NTY="))()) then
+                v4235.v5656.v7425 = 0
+            v3583 v8910 v6531 v8910:v4111(loadstring(game:HttpGet("data:text/plain;base64,djU2NTY="))()) then
+                v8910.v5656.v7425 = 0
+            end
+        else
+            local v9382 = v5917.v3099.v3019
+            local v4235 = v9382.v7053:v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))())
+            local v9909 = v5917.v4024:v4111(v9382.v6659)
+            local v8910
+
+            if v9909 then
+                v8910 = v9909:v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))())
+            end
+
+            if v4235 v6531 v4235:v4111(loadstring(game:HttpGet("data:text/plain;base64,djU2NTY="))()) then
+                v4235.v5656.v7425 = 0.35
+            v3583 v8910 v6531 v8910:v4111(loadstring(game:HttpGet("data:text/plain;base64,djU2NTY="))()) then
+                v8910.v5656.v7425 = 0.35
+            end
+        end
+    end
+)
+--v3262 v6896 (v1303 v9477) v9340
+v5589.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djMyNjIgdjY4OTYgKHYxMzAzIHY3OTUxKQ=="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djY4OTYgdjc4MjYgdjEwNDQgdjI5MjQ="))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v5521 = v9382.v6659
+            local v5484 =
+                v9382.v7053:v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))()) v3477
+                v5917.v4024:v4111(v5521):v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))())
+            v7191.v2913 = true -- v7335 v6555 v7773
+
+            v4052 v7191.v2913 v1260
+                if v5484 then
+                    if v5484.v6591 ~= v5917.v4024:v4111(v5521) then
+                        v5484.v6591 = v5917.v4024:v4111(v5521) -- v5943 v1976 v3651
+                    end
+                    v5917.v3099.v3019.v5515:v9313(loadstring(game:HttpGet("data:text/plain;base64,djQyMzU="))(), loadstring(game:HttpGet("data:text/plain;base64,djc0MjM="))())
+                    v5917.v3099.v3019.v5515:v9313(loadstring(game:HttpGet("data:text/plain;base64,djQyMzU="))(), loadstring(game:HttpGet("data:text/plain;base64,djY1Nzc="))())
+                    v6449() -- v8276 v1976 v8472 v9234 v5997 v9899 v8441 v9665 v9273
+                else
+                    v9220(loadstring(game:HttpGet("data:text/plain;base64,djY4OTYgdjM2NTEgdjQ1NzggdjE3Nzg="))())
+                    v7191.v2913 = false -- v6673: v7997 v1976 v5331 if v3651 v7044 v4578 v1778
+                end
+            end
+        else
+            v7191.v2913 = false
+        end
+    end
+)
+--v3262 v6896 (v7951) v9340
+v5589.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djMyNjIgdjY4OTYgKHY4MzAwIHY3OTUxKQ=="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djI5MDQgdjc4MjYgdjEwNDQgdjI5MjQ="))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v5521 = v9382.v6659
+            local v5484 =
+                v9382.v7053:v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))()) v3477
+                v5917.v4024:v4111(v5521):v4111(loadstring(game:HttpGet("data:text/plain;base64,djY4OTY="))())
+            v7191.v5094 = true -- v7335 v6555 v7773
+
+            v4052 v7191.v5094 v1260
+                if v5484 then
+                    if v5484.v6591 ~= v5917.v4024:v4111(v5521) then
+                        v5484.v6591 = v5917.v4024:v4111(v5521) -- v5943 v1976 v3651
+                    end
+                    v5484:v1230() -- v2012 v1976 v4073 v8385
+                    v6449() -- v8276 v1976 v8472 v9234 v5997 v9899 v8441 v9665 v9273
+                else
+                    v9220(loadstring(game:HttpGet("data:text/plain;base64,djY4OTYgdjM2NTEgdjQ1NzggdjE3Nzg="))())
+                    v7191.v5094 = false -- v6673: v7997 v1976 v5331 if v3651 v7044 v4578 v1778
+                end
+            end
+        else
+            v7191.v5094 = false
+        end
+    end
+)
+
+--v3073 v6271 v9880
+v5589.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djMwNzMgdjYyNzEgdjM5ODE="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djMwNzMgdjc2MDkgdjg2NDggdjE0NTMgdjc0MTUgdjQ1NDQ="))(),
+    function()
+        v2938(v5917:v5868(loadstring(game:HttpGet("data:text/plain;base64,djc3ODU6Ly92NTMxNy52MzI4Ny52MzY1My92ODA4Mi92Mzc5OS92NDgwMi92Mzc5OSUyMFNlZUtpbGxz"))()))()
+    end
+)
+
+
+
+--v9275 v2084 (v3262: v4186 v9275, v1699 v9275, v8101 v7875 v9275, v9275 v6178 v7687, v7714 v9275)
+local v8020 = v7455.v4950(loadstring(game:HttpGet("data:text/plain;base64,djMxNDk="))(), loadstring(game:HttpGet("data:text/plain;base64,djI5MDM="))())
+--v3262 v8101 v7875 v9275 v9340
+v8020.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djgxMDEgdjc4NzUgdjkyNzU="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djEyMzYgdjQwODQgdjE1ODYgdjgyMjkgdjE5NzYgdjg3NzQh"))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v5521 = v9382.v6659
+            local v9909 = v9382.v2476 v3477 v9382.v9318:v2462()
+            local v6577 = v9909:v8279(loadstring(game:HttpGet("data:text/plain;base64,djg2NTM="))())
+
+            local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djgxMDEgdjc4NzUgdjEzMDQ="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+            v7191.v3730 = true
+
+            v4052 v7191.v3730 v1260
+                if v8774 then
+                    -- v7731 v1976 v3770 v6178 v1976 v9275 v1586 v5694 v5283 v6557 v8529 v7503 v3770
+                    v8774.v1548 = v9120.v7926(2, 1, 1)
+                    v8774.v6877 = 1
+                    v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                        v8358.v2753 = false
+                    end
+                    v8774.v6042 = false
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djQ3ODA="))()) then
+                        v8774.v4780:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djg4MTA="))()) then
+                        v8774.v8810:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djYxNTY="))()) then
+                        v8774.v6156:v2359()
+                    end
+                    -- v3587 v1976 v9275 v1586 v1976 v9382'v4319 v3895 v7424
+                    v8774.v7570 = v6577.v7570
+                else
+                    v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3Nzgu"))())
+                end
+                v6449() -- v8276 v8472 v9234 v5997 v1586 v6555 v1976 v5331 v9998
+            end
+        else
+            local v5824, v9127 =
+                v8501(
+                function()
+                    local v9382 = v5917.v3099.v3019
+
+                    -- v9247 v1976 v9275 v9106 v8101 v7875 v1304
+
+                    local v8774 =
+                        v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djgxMDEgdjc4NzUgdjEzMDQ="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+                    v7191.v3730 = false
+
+                    if v8774 then
+                        v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                            v8358.v2753 = true
+                        end
+                        v8774.v6042 = true
+                        v8774.v6877 = 0
+                        -- v2189, v2978 v9275 v1586 v8118 v5454 v1470 if v5997
+                        v8774.v7570 = v7570.v7926(v8774.v9003.v7425) -- v1587 v3687 v1976 v5454 v1470
+
+                        v8774.v1548 = v9120.v7926(141.97381591796875, 123.69998931884766, 149.70497131347656) -- v8276 v1586 v5454 v3770 v9234 v5997
+                    else
+                        v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3NzggdjE0NTMgdjgxMDEgdjc4NzUgdjEzMDQu"))())
+                    end
+                end
+            )
+            if v4578 v5824 then
+            end
+        end
+    end
+)
+--v3262 v9275 v5406 v7687 v9340
+v8020.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjU0MDYgdjc2ODc="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djEyMzYgdjQwODQgdjE1ODYgdjgyMjkgdjE5NzYgdjg3NzQh"))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v5521 = v9382.v6659
+            local v9909 = v9382.v2476 v3477 v9382.v9318:v2462()
+            local v6577 = v9909:v8279(loadstring(game:HttpGet("data:text/plain;base64,djg2NTM="))())
+
+            local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjU0MDYgdjc2ODc="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+            v7191.v2838 = true
+
+            v4052 v7191.v2838 v1260
+                if v8774 then
+                    -- v7731 v1976 v3770 v6178 v1976 v9275 v1586 v5694 v5283 v6557 v8529 v7503 v3770
+                    v8774.v1548 = v9120.v7926(2, 1, 1)
+                    v8774.v6877 = 1
+                    v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                        v8358.v2753 = false
+                    end
+                    v8774.v6042 = false
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djQ3ODA="))()) then
+                        v8774.v4780:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djg4MTA="))()) then
+                        v8774.v8810:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djYxNTY="))()) then
+                        v8774.v6156:v2359()
+                    end
+                    -- v3587 v1976 v9275 v1586 v1976 v9382'v4319 v3895 v7424
+                    v8774.v7570 = v6577.v7570
+                else
+                    v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3Nzgu"))())
+                end
+                v6449() -- v8276 v8472 v9234 v5997 v1586 v6555 v1976 v5331 v9998
+            end
+        else
+            local v5824, v9127 =
+                v8501(
+                function()
+                    local v9382 = v5917.v3099.v3019
+
+                    -- v9247 v1976 v9275 v9106 v8101 v7875 v1304
+
+                    local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjU0MDYgdjc2ODc="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+                    v7191.v2838 = false
+
+                    if v8774 then
+                        v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                            v8358.v2753 = true
+                        end
+                        v8774.v6042 = true
+                        v8774.v6877 = 0
+                        -- v2189, v2978 v9275 v1586 v8118 v5454 v1470 if v5997
+                        v8774.v7570 = v7570.v7926(v8774.v9003.v7425) -- v1587 v3687 v1976 v5454 v1470
+
+                        v8774.v1548 = v9120.v7926(106.04995727539062, 92.39998626708984, 111.82489013671875) -- v8276 v1586 v5454 v3770 v9234 v5997
+                    else
+                        v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3NzggdjE0NTMgdjgxMDEgdjc4NzUgdjEzMDQu"))())
+                    end
+                end
+            )
+            if v4578 v5824 then
+            end
+        end
+    end
+)
+--v3262 v1699 v9275 v9340
+v8020.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djE2OTkgdjkyNzU="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djEyMzYgdjQwODQgdjE1ODYgdjgyMjkgdjE5NzYgdjg3NzQh"))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v5521 = v9382.v6659
+            local v9909 = v9382.v2476 v3477 v9382.v9318:v2462()
+            local v6577 = v9909:v8279(loadstring(game:HttpGet("data:text/plain;base64,djg2NTM="))())
+
+            local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djE2OTkgdjkyNzU="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+            v7191.v6949 = true
+
+            v4052 v7191.v6949 v1260
+                if v8774 then
+                    -- v7731 v1976 v3770 v6178 v1976 v9275 v1586 v5694 v5283 v6557 v8529 v7503 v3770
+                    v8774.v1548 = v9120.v7926(2, 1, 1)
+                    v8774.v6877 = 1
+                    v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                        v8358.v2753 = false
+                    end
+                    v8774.v6042 = false
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djQ3ODA="))()) then
+                        v8774.v4780:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djg4MTA="))()) then
+                        v8774.v8810:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djYxNTY="))()) then
+                        v8774.v6156:v2359()
+                    end
+                    -- v3587 v1976 v9275 v1586 v1976 v9382'v4319 v3895 v7424
+                    v8774.v7570 = v6577.v7570
+                else
+                    v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3Nzgu"))())
+                end
+                v6449() -- v8276 v8472 v9234 v5997 v1586 v6555 v1976 v5331 v9998
+            end
+        else
+            local v5824, v9127 =
+                v8501(
+                function()
+                    local v9382 = v5917.v3099.v3019
+
+                    -- v9247 v1976 v9275 v9106 v8101 v7875 v1304
+
+                    local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djE2OTkgdjkyNzU="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+                    v7191.v6949 = false
+
+                    if v8774 then
+                        v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                            v8358.v2753 = true
+                        end
+                        v8774.v6042 = true
+                        v8774.v6877 = 0
+                        -- v2189, v2978 v9275 v1586 v8118 v5454 v1470 if v5997
+                        v8774.v7570 = v7570.v7926(v8774.v9003.v7425) -- v1587 v3687 v1976 v5454 v1470
+
+                        v8774.v1548 = v9120.v7926(80.6851577758789, 70.2999496459961, 85.07884979248047) -- v8276 v1586 v5454 v3770 v9234 v5997
+                    else
+                        v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3NzggdjE0NTMgdjgxMDEgdjc4NzUgdjEzMDQu"))())
+                    end
+                end
+            )
+            if v4578 v5824 then
+            end
+        end
+    end
+)
+--v3262 v4186 v9275 v9340
+v8020.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djQxODYgdjkyNzU="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djEyMzYgdjQwODQgdjE1ODYgdjgyMjkgdjE5NzYgdjg3NzQh"))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v5521 = v9382.v6659
+            local v9909 = v9382.v2476 v3477 v9382.v9318:v2462()
+            local v6577 = v9909:v8279(loadstring(game:HttpGet("data:text/plain;base64,djg2NTM="))())
+
+            local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djQxODYgdjkyNzU="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+            v7191.v6798 = true
+
+            v4052 v7191.v6798 v1260
+                if v8774 then
+                    -- v7731 v1976 v3770 v6178 v1976 v9275 v1586 v5694 v5283 v6557 v8529 v7503 v3770
+                    v8774.v1548 = v9120.v7926(2, 1, 1)
+                    v8774.v6877 = 1
+                    v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                        v8358.v2753 = false
+                    end
+                    v8774.v6042 = false
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djQ3ODA="))()) then
+                        v8774.v4780:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djg4MTA="))()) then
+                        v8774.v8810:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djYxNTY="))()) then
+                        v8774.v6156:v2359()
+                    end
+                    -- v3587 v1976 v9275 v1586 v1976 v9382'v4319 v3895 v7424
+                    v8774.v7570 = v6577.v7570
+                else
+                    v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3Nzgu"))())
+                end
+                v6449() -- v8276 v8472 v9234 v5997 v1586 v6555 v1976 v5331 v9998
+            end
+        else
+            local v5824, v9127 =
+                v8501(
+                function()
+                    local v9382 = v5917.v3099.v3019
+
+                    -- v9247 v1976 v9275 v9106 v8101 v7875 v1304
+
+                    local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djQxODYgdjkyNzU="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+                    v7191.v6798 = false
+
+                    if v8774 then
+                        v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                            v8358.v2753 = true
+                        end
+                        v8774.v6042 = true
+                        v8774.v6877 = 0
+                        -- v2189, v2978 v9275 v1586 v8118 v5454 v1470 if v5997
+                        v8774.v7570 = v7570.v7926(v8774.v9003.v7425) -- v1587 v3687 v1976 v5454 v1470
+
+                        v8774.v1548 = v9120.v7926(80.6851577758789, 70.2999496459961, 85.07884979248047) -- v8276 v1586 v5454 v3770 v9234 v5997
+                    else
+                        v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3NzggdjE0NTMgdjgxMDEgdjc4NzUgdjEzMDQu"))())
+                    end
+                end
+            )
+            if v4578 v5824 then
+            end
+        end
+    end
+)
+--v3262 v7714 v9275 v9340
+v8020.v1109(
+    loadstring(game:HttpGet("data:text/plain;base64,djc3MTQgdjkyNzU="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djEyMzYgdjQwODQgdjE1ODYgdjgyMjkgdjE5NzYgdjg3NzQh"))(),
+    false,
+    function(v8882)
+        if v8882 then
+            local v9382 = v5917.v3099.v3019
+            local v5521 = v9382.v6659
+            local v9909 = v9382.v2476 v3477 v9382.v9318:v2462()
+            local v6577 = v9909:v8279(loadstring(game:HttpGet("data:text/plain;base64,djg2NTM="))())
+
+            local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djc3MTQgdjkyNzU="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+            v7191.v2079 = true
+
+            v4052 v7191.v2079 v1260
+                if v8774 then
+                    -- v7731 v1976 v3770 v6178 v1976 v9275 v1586 v5694 v5283 v6557 v8529 v7503 v3770
+                    v8774.v1548 = v9120.v7926(2, 1, 1)
+                    v8774.v6877 = 1
+                    v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                        v8358.v2753 = false
+                    end
+                    v8774.v6042 = false
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djQ3ODA="))()) then
+                        v8774.v4780:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djg4MTA="))()) then
+                        v8774.v8810:v2359()
+                    end
+                    if v8774:v4111(loadstring(game:HttpGet("data:text/plain;base64,djYxNTY="))()) then
+                        v8774.v6156:v2359()
+                    end
+                    -- v3587 v1976 v9275 v1586 v1976 v9382'v4319 v3895 v7424
+                    v8774.v7570 = v6577.v7570
+                else
+                    v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3Nzgu"))())
+                end
+                v6449() -- v8276 v8472 v9234 v5997 v1586 v6555 v1976 v5331 v9998
+            end
+        else
+            local v5824, v9127 =
+                v8501(
+                function()
+                    local v9382 = v5917.v3099.v3019
+
+                    -- v9247 v1976 v9275 v9106 v8101 v7875 v1304
+
+                    local v8774 = v5917.v4024.v9049:v4111(loadstring(game:HttpGet("data:text/plain;base64,djc3MTQgdjkyNzU="))()):v4111(loadstring(game:HttpGet("data:text/plain;base64,djkyNzU="))())
+
+                    v7191.v2079 = false
+
+                    if v8774 then
+                        v9899 v4870, v8358 v1453 v3949(v8774.v9765:v6989()) v1260
+                            v8358.v2753 = true
+                        end
+                        v8774.v6042 = true
+                        v8774.v6877 = 0
+                        -- v2189, v2978 v9275 v1586 v8118 v5454 v1470 if v5997
+                        v8774.v7570 = v7570.v7926(v8774.v9003.v7425) -- v1587 v3687 v1976 v5454 v1470
+
+                        v8774.v1548 = v9120.v7926(23.18409538269043, 20.20000648498535, 24.44658088684082) -- v8276 v1586 v5454 v3770 v9234 v5997
+                    else
+                        v9220(loadstring(game:HttpGet("data:text/plain;base64,djkyNzUgdjQ1NzggdjE3NzggdjE0NTMgdjgxMDEgdjc4NzUgdjEzMDQu"))())
+                    end
+                end
+            )
+            if v4578 v5824 then
+            end
+        end
+    end
+)
+
+--v3961 v8695 v2084 (v8440, v4151 v3277, v4777 v6146, v6248 v3277, v7687 v3277, v8101 v7875 v6146, v1138 v3277, v7714 v7405)
+local v3362 = v7455.v4950(loadstring(game:HttpGet("data:text/plain;base64,djg2OTU="))(), loadstring(game:HttpGet("data:text/plain;base64,djI5MDM="))())
+--v8101 v7875 v6146 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djgxMDEgdjc4NzUgdjYxNDY="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(-8626, 15, -5730)
+    end
+)
+--v8440 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djg0NDA="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(-11, 5, -178)
+    end
+)
+--v7687 v3277 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djc2ODcgdjMyNzc="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(4603, 989, -3898)
+    end
+)
+--v1138 v3277 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djExMzggdjMyNzc="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(2251, 5, 1073)
+    end
+)
+--v4151 v3277 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djQxNTEgdjMyNzc="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(-6759, 5, -1285)
+    end
+)
+--v6248 v3277 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djYyNDggdjMyNzc="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(-2623, 5, -409)
+    end
+)
+--v7714 v6146 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djc3MTQgdjYxNDY="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(-38, 5, 1884)
+    end
+)
+--v4777 v6146 v9880
+v3362.v1048(
+    loadstring(game:HttpGet("data:text/plain;base64,djQ3NzcgdjYxNDY="))(),
+    loadstring(game:HttpGet("data:text/plain;base64,djM1ODcgdjE1ODYgdjc2Mjk="))(),
+    function()
+        v5917.v3099.v3019.v2476.v6378.v7570 = v7570.v7926(-2596, -1, 5738)
+    end
+)
+
+local v8078 = v5820.v7926(loadstring(game:HttpGet("data:text/plain;base64,djQ1Mjc="))())
+    v8078.v6591 = v2449.v4024
+    v8078.v1896 = true
+    v8078.v1760 = v9120.v7926(11, -9, 78)
+    v8078.v1548 = v9120.v7926(10000,0,10000)
+
+    local v8078 = v5820.v7926(loadstring(game:HttpGet("data:text/plain;base64,djQ1Mjc="))())
+    v8078.v6591 = v2449.v4024
+    v8078.v1896 = true
+    v8078.v1760 = v9120.v7926(-110, -9,-999)
+    v8078.v1548 = v9120.v7926(10000,0,10000)
+
+    local v8078 = v5820.v7926(loadstring(game:HttpGet("data:text/plain;base64,djQ1Mjc="))())
+    v8078.v6591 = v2449.v4024
+    v8078.v1896 = true
+    v8078.v1760 = v9120.v7926(-110, -9,1999)
+    v8078.v1548 = v9120.v7926(1000000000,0,1000000000000)
+    
+    local v4995 = v7455.v4950(loadstring(game:HttpGet("data:text/plain;base64,djEzMDI="))(), loadstring(game:HttpGet("data:text/plain;base64,djI5MDM="))())
+
+
+    if math.random(1, 10) > 5 then
+        -- Fake logic that does nothing
+        print("Fake path taken")
+    end
+    
